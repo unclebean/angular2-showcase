@@ -1,0 +1,1325 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2015 The New York Times Company. All Rights Reserved.",
+   "section":"home",
+   "last_updated":"2015-08-23T10:40:02-05:00",
+   "num_results":22,
+   "results":[
+      {
+         "section":"Business Day",
+         "subsection":"DealBook",
+         "title":"Investors Race to Escape Risks in Emerging Markets",
+         "abstract":"A selling spree by large mutual funds has raised concerns among regulators and economists about a broader contagion if investors start to ask for their money at the same time.",
+         "url":"http:\/\/www.nytimes.com\/2015\/08\/23\/business\/investors-race-to-escape-risk-in-once-booming-emerging-market-bonds.html",
+         "byline":"By LANDON THOMAS Jr.",
+         "item_type":"Article",
+         "updated_date":"2015-08-22T12:16:05-5:00",
+         "created_date":"2015-08-22T12:16:06-5:00",
+         "published_date":"2015-08-23T00:00:00-5:00",
+         "material_type_facet":"News",
+         "kicker":"",
+         "des_facet":[
+            "International Trade and World Market",
+            "Mutual Funds",
+            "Economic Conditions and Trends",
+            "Banking and Financial Institutions",
+            "Standard & Poor's 500-Stock Index",
+            "Dow Jones Stock Average",
+            "Government Bonds"
+         ],
+         "org_facet":"",
+         "per_facet":"",
+         "geo_facet":[
+            "China"
+         ],
+         "multimedia":[
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/business\/23db-emerge-web\/23db-emerge-web-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The Chinese yuan. China\u2019s decision to devalue its currency set off a chain reaction of panicked selling around the world.",
+               "copyright":"CHINATOPIX, via Associated Press"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/business\/23db-emerge-web\/23db-emerge-web-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The Chinese yuan. China\u2019s decision to devalue its currency set off a chain reaction of panicked selling around the world.",
+               "copyright":"CHINATOPIX, via Associated Press"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/business\/23db-emerge-web\/23db-emerge-web-articleInline.jpg",
+               "format":"Normal",
+               "height":127,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The Chinese yuan. China\u2019s decision to devalue its currency set off a chain reaction of panicked selling around the world.",
+               "copyright":"CHINATOPIX, via Associated Press"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/business\/23db-emerge-web\/23db-emerge-web-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The Chinese yuan. China\u2019s decision to devalue its currency set off a chain reaction of panicked selling around the world.",
+               "copyright":"CHINATOPIX, via Associated Press"
+            }
+         ]
+      },
+      {
+         "section":"World",
+         "subsection":"Asia Pacific",
+         "title":"Fading Economy and Graft Crackdown Rattle China",
+         "abstract":"A slowdown could mark the end of fast growth, while a campaign against official corruption has continued longer and reached higher than most had expected.",
+         "url":"http:\/\/www.nytimes.com\/2015\/08\/23\/world\/asia\/chinas-economy-and-graft-crackdown-rattle-leaders.html",
+         "byline":"By MICHAEL FORSYTHE and JONATHAN ANSFIELD",
+         "item_type":"Article",
+         "updated_date":"2015-08-22T09:11:42-5:00",
+         "created_date":"2015-08-22T09:11:44-5:00",
+         "published_date":"2015-08-23T00:00:00-5:00",
+         "material_type_facet":"News",
+         "kicker":"",
+         "des_facet":[
+            "Economic Conditions and Trends",
+            "Renminbi (Currency)",
+            "Politics and Government"
+         ],
+         "org_facet":[
+            "Communist Party of China"
+         ],
+         "per_facet":[
+            "Xi Jinping",
+            "Hu Jintao",
+            "Jiang Zemin"
+         ],
+         "geo_facet":[
+            "China"
+         ],
+         "multimedia":[
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/world\/CHINA1\/CHINA1-thumbStandard-v3.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"President Xi Jinping of China with President Obama in Beijing last year. Mr. Xi will be visiting Washington in a few weeks.",
+               "copyright":"Andy Wong\/Associated Press"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/world\/CHINA1\/CHINA1-thumbLarge-v3.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"President Xi Jinping of China with President Obama in Beijing last year. Mr. Xi will be visiting Washington in a few weeks.",
+               "copyright":"Andy Wong\/Associated Press"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/world\/CHINA1\/CHINA1-articleInline.jpg",
+               "format":"Normal",
+               "height":132,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"President Xi Jinping of China with President Obama in Beijing last year. Mr. Xi will be visiting Washington in a few weeks.",
+               "copyright":"Andy Wong\/Associated Press"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/world\/CHINA1\/CHINA1-mediumThreeByTwo210-v3.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"President Xi Jinping of China with President Obama in Beijing last year. Mr. Xi will be visiting Washington in a few weeks.",
+               "copyright":"Andy Wong\/Associated Press"
+            }
+         ]
+      },
+      {
+         "section":"Business Day",
+         "subsection":"",
+         "title":"Mortgage Provider Reaps Rewards of Lending Boldly",
+         "abstract":"Bank of Internet USA, which has extended big loans to high-earning people other lenders might shun, has been making profits, and setting off alarm bells.",
+         "url":"http:\/\/www.nytimes.com\/2015\/08\/23\/business\/a-internet-mortgage-provider-reaps-the-rewards-of-lending-boldly.html",
+         "byline":"By PETER EAVIS",
+         "item_type":"Article",
+         "updated_date":"2015-08-22T15:03:15-5:00",
+         "created_date":"2015-08-22T15:03:17-5:00",
+         "published_date":"2015-08-23T00:00:00-5:00",
+         "material_type_facet":"News",
+         "kicker":"",
+         "des_facet":[
+            "Mortgages",
+            "Banking and Financial Institutions",
+            "Computers and the Internet"
+         ],
+         "org_facet":[
+            "Bank of Internet USA",
+            "BofI Holding Inc",
+            "H&R Block Inc",
+            "Office of the Comptroller of the Currency"
+         ],
+         "per_facet":[
+            "Garrabrants, Gregory (1971- )"
+         ],
+         "geo_facet":"",
+         "multimedia":[
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/business\/23-BANK\/23-BANK-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Gregory Garrabrants has been the chief executive of BofI Holding, Bank of Internet&rsquo;s parent company, since 2007.",
+               "copyright":"Dustin Michelson for The New York Times"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/business\/23-BANK\/23-BANK-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Gregory Garrabrants has been the chief executive of BofI Holding, Bank of Internet&rsquo;s parent company, since 2007.",
+               "copyright":"Dustin Michelson for The New York Times"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/business\/23-BANK\/23-BANK-articleInline.jpg",
+               "format":"Normal",
+               "height":125,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Gregory Garrabrants has been the chief executive of BofI Holding, Bank of Internet&rsquo;s parent company, since 2007.",
+               "copyright":"Dustin Michelson for The New York Times"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/business\/23-BANK\/23-BANK-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Gregory Garrabrants has been the chief executive of BofI Holding, Bank of Internet&rsquo;s parent company, since 2007.",
+               "copyright":"Dustin Michelson for The New York Times"
+            }
+         ]
+      },
+      {
+         "section":"World",
+         "subsection":"Europe",
+         "title":"A Shot, a Glimpse of an AK-47, and U.S. Servicemen Pounced",
+         "abstract":"The action by servicemen on a high-speed train traveling from Amsterdam to Paris averted what officials said could have been a blood bath.",
+         "url":"http:\/\/www.nytimes.com\/2015\/08\/23\/world\/europe\/americans-recount-gunmans-attack-on-train-to-france.html",
+         "byline":"By ADAM NOSSITER",
+         "item_type":"Article",
+         "updated_date":"2015-08-22T16:12:16-5:00",
+         "created_date":"2015-08-22T10:48:25-5:00",
+         "published_date":"2015-08-23T00:00:00-5:00",
+         "material_type_facet":"News",
+         "kicker":"",
+         "des_facet":[
+            "Terrorism",
+            "Railroads",
+            "United States Defense and Military Forces"
+         ],
+         "org_facet":"",
+         "per_facet":[
+            "Stone, Spencer",
+            "Skarlatos, Alek (1992- )",
+            "Sadler, Anthony R Jr"
+         ],
+         "geo_facet":[
+            "France"
+         ],
+         "multimedia":[
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/nyregion\/23TRAIN-Americans\/23TRAIN-Americans-thumbStandard-v5.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"France ramped up security after a 26-year-old Moroccan gunman attacked passengers on a high-speed train heading to Paris. Three Americans, above, and a Frenchman rushed him and knocked him unconscious, preventing what a French official said would have been \u201ca terrible tragedy.\u201d",
+               "copyright":"Left, Philippe Huguen\/Agence France-Presse; center and right, Pascal Rossignol\/Reuters"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/nyregion\/23TRAIN-Americans\/23TRAIN-Americans-thumbLarge-v5.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"France ramped up security after a 26-year-old Moroccan gunman attacked passengers on a high-speed train heading to Paris. Three Americans, above, and a Frenchman rushed him and knocked him unconscious, preventing what a French official said would have been \u201ca terrible tragedy.\u201d",
+               "copyright":"Left, Philippe Huguen\/Agence France-Presse; center and right, Pascal Rossignol\/Reuters"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/nyregion\/23TRAIN-Americans\/23TRAIN-Americans-articleInline-v5.jpg",
+               "format":"Normal",
+               "height":127,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"France ramped up security after a 26-year-old Moroccan gunman attacked passengers on a high-speed train heading to Paris. Three Americans, above, and a Frenchman rushed him and knocked him unconscious, preventing what a French official said would have been \u201ca terrible tragedy.\u201d",
+               "copyright":"Left, Philippe Huguen\/Agence France-Presse; center and right, Pascal Rossignol\/Reuters"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/nyregion\/23TRAIN-Americans\/23TRAIN-Americans-mediumThreeByTwo210-v5.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"France ramped up security after a 26-year-old Moroccan gunman attacked passengers on a high-speed train heading to Paris. Three Americans, above, and a Frenchman rushed him and knocked him unconscious, preventing what a French official said would have been \u201ca terrible tragedy.\u201d",
+               "copyright":"Left, Philippe Huguen\/Agence France-Presse; center and right, Pascal Rossignol\/Reuters"
+            }
+         ]
+      },
+      {
+         "section":"World",
+         "subsection":"Europe",
+         "title":"3 Who Stopped Attack Were Boyhood Friends",
+         "abstract":"The three Americans who subdued a gunman aboard a train to Paris are friends from their middle-school days, and two of them serve in the armed forces.",
+         "url":"http:\/\/www.nytimes.com\/2015\/08\/23\/world\/europe\/3-heroes-who-stopped-train-attack-were-boyhood-friends.html",
+         "byline":"By ASHLEY SOUTHALL",
+         "item_type":"Article",
+         "updated_date":"2015-08-22T19:55:15-5:00",
+         "created_date":"2015-08-22T16:29:33-5:00",
+         "published_date":"2015-08-23T00:00:00-5:00",
+         "material_type_facet":"News",
+         "kicker":"",
+         "des_facet":[
+            "Terrorism",
+            "Railroads"
+         ],
+         "org_facet":"",
+         "per_facet":[
+            "Sadler, Anthony R Jr",
+            "Skarlatos, Alek (1992- )",
+            "Stone, Spencer"
+         ],
+         "geo_facet":[
+            "France"
+         ],
+         "multimedia":[
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/world\/22JPTRAIN3\/22JPTRAIN3-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Spencer Stone leaving a police station in Arras, northern France on Saturday.",
+               "copyright":"Virginia Mayo\/Associated Press"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/world\/22JPTRAIN3\/22JPTRAIN3-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Spencer Stone leaving a police station in Arras, northern France on Saturday.",
+               "copyright":"Virginia Mayo\/Associated Press"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/world\/22JPTRAIN3\/22JPTRAIN3-articleInline.jpg",
+               "format":"Normal",
+               "height":133,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Spencer Stone leaving a police station in Arras, northern France on Saturday.",
+               "copyright":"Virginia Mayo\/Associated Press"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/world\/22JPTRAIN3\/22JPTRAIN3-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Spencer Stone leaving a police station in Arras, northern France on Saturday.",
+               "copyright":"Virginia Mayo\/Associated Press"
+            }
+         ]
+      },
+      {
+         "section":"World",
+         "subsection":"Europe",
+         "title":"Profile Emerges of Suspect",
+         "abstract":"The gunman is believed to be Ayoub El Kahzani, of Moroccan origin, who was known to the Spanish and French security services and is reported to have traveled to Syria last year.",
+         "url":"http:\/\/www.nytimes.com\/2015\/08\/23\/world\/europe\/thalys-train-attack-france-moroccan-suspect.html",
+         "byline":"By STEVEN ERLANGER",
+         "item_type":"Article",
+         "updated_date":"2015-08-22T14:24:01-5:00",
+         "created_date":"2015-08-22T14:24:03-5:00",
+         "published_date":"2015-08-23T00:00:00-5:00",
+         "material_type_facet":"News",
+         "kicker":"",
+         "des_facet":[
+            "Terrorism",
+            "Transit Systems"
+         ],
+         "org_facet":"",
+         "per_facet":[
+            "Ayoub El Kahzani"
+         ],
+         "geo_facet":[
+            "France",
+            "Spain",
+            "Belgium"
+         ],
+         "multimedia":[
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/world\/SUSPECT\/SUSPECT-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The police detained a suspect in Arras, France, on Friday after an attack on a train to Paris was foiled by passengers.",
+               "copyright":"Christina Catherine Coons\/Agence France-Presse \u2014 Getty Images"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/world\/SUSPECT\/SUSPECT-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The police detained a suspect in Arras, France, on Friday after an attack on a train to Paris was foiled by passengers.",
+               "copyright":"Christina Catherine Coons\/Agence France-Presse \u2014 Getty Images"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/world\/SUSPECT\/SUSPECT-articleInline.jpg",
+               "format":"Normal",
+               "height":111,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The police detained a suspect in Arras, France, on Friday after an attack on a train to Paris was foiled by passengers.",
+               "copyright":"Christina Catherine Coons\/Agence France-Presse \u2014 Getty Images"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/world\/SUSPECT\/SUSPECT-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The police detained a suspect in Arras, France, on Friday after an attack on a train to Paris was foiled by passengers.",
+               "copyright":"Christina Catherine Coons\/Agence France-Presse \u2014 Getty Images"
+            }
+         ]
+      },
+      {
+         "section":"N.Y. \/ Region",
+         "subsection":"",
+         "title":"Far Rockaway a Testing Ground for Community Policing",
+         "abstract":"The 101st Precinct in Far Rockaway, a low-income neighborhood wary of the police, has seen halting progress as the department seeks to reshape everyday interactions between officers and residents.",
+         "url":"http:\/\/www.nytimes.com\/2015\/08\/24\/nyregion\/for-new-york-police-a-radical-change-for-queens-residents-a-step.html",
+         "byline":"By J. DAVID GOODMAN",
+         "item_type":"Article",
+         "updated_date":"2015-08-23T05:57:05-5:00",
+         "created_date":"2015-08-23T05:57:08-5:00",
+         "published_date":"2015-08-24T00:00:00-5:00",
+         "material_type_facet":"News",
+         "kicker":"",
+         "des_facet":[
+            "Police Brutality, Misconduct and Shootings"
+         ],
+         "org_facet":[
+            "Police Department (NYC)"
+         ],
+         "per_facet":[
+            "Bratton, William J"
+         ],
+         "geo_facet":[
+            "Far Rockaway (Queens, NY)"
+         ],
+         "multimedia":""
+      },
+      {
+         "section":"World",
+         "subsection":"Middle East",
+         "title":"A Year After War, People of Gaza Still Sit Among the Ruins",
+         "abstract":"Not a single one of the nearly 18,000 homes destroyed or severely damaged in last summer\u2019s war is habitable.",
+         "url":"http:\/\/www.nytimes.com\/2015\/08\/23\/world\/middleeast\/one-year-after-war-people-of-gaza-still-sit-among-the-ruins.html",
+         "byline":"By JODI RUDOREN and MAJD AL WAHEIDI",
+         "item_type":"Article",
+         "updated_date":"2015-08-22T20:20:09-5:00",
+         "created_date":"2015-08-22T20:20:11-5:00",
+         "published_date":"2015-08-23T00:00:00-5:00",
+         "material_type_facet":"News",
+         "kicker":"",
+         "des_facet":[
+            "Real Estate and Housing (Residential)",
+            "Infrastructure (Public Works)",
+            "Palestinians"
+         ],
+         "org_facet":"",
+         "per_facet":"",
+         "geo_facet":[
+            "Gaza Strip",
+            "Israel"
+         ],
+         "multimedia":[
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/world\/GAZA\/GAZA-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Shejaiya, a neighborhood of Gaza City, was devastated by Israeli attacks during the conflict last year between Israel and Palestinian militants, and the destroyed homes are still uninhabitable.",
+               "copyright":"Tomas Munita for The New York Times"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/world\/GAZA\/GAZA-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Shejaiya, a neighborhood of Gaza City, was devastated by Israeli attacks during the conflict last year between Israel and Palestinian militants, and the destroyed homes are still uninhabitable.",
+               "copyright":"Tomas Munita for The New York Times"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/world\/GAZA\/GAZA-articleInline.jpg",
+               "format":"Normal",
+               "height":126,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Shejaiya, a neighborhood of Gaza City, was devastated by Israeli attacks during the conflict last year between Israel and Palestinian militants, and the destroyed homes are still uninhabitable.",
+               "copyright":"Tomas Munita for The New York Times"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/world\/GAZA\/GAZA-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Shejaiya, a neighborhood of Gaza City, was devastated by Israeli attacks during the conflict last year between Israel and Palestinian militants, and the destroyed homes are still uninhabitable.",
+               "copyright":"Tomas Munita for The New York Times"
+            }
+         ]
+      },
+      {
+         "section":"U.S.",
+         "subsection":"Politics",
+         "title":"As Polls and Fans Speak, Trump Shows Staying Power",
+         "abstract":"Evidence suggests that Donald J. Trump\u2019s dominance in primary polling is no mere \u201csummer fling.\u201d",
+         "url":"http:\/\/www.nytimes.com\/2015\/08\/23\/us\/politics\/why-donald-trump-wont-fold-polls-and-people-speak.html",
+         "byline":"By MICHAEL BARBARO, NATE COHN and JEREMY W. PETERS",
+         "item_type":"Article",
+         "updated_date":"2015-08-22T12:08:43-5:00",
+         "created_date":"2015-08-22T12:08:45-5:00",
+         "published_date":"2015-08-23T00:00:00-5:00",
+         "material_type_facet":"News",
+         "kicker":"",
+         "des_facet":[
+            "Presidential Election of 2016",
+            "Polls and Public Opinion"
+         ],
+         "org_facet":"",
+         "per_facet":[
+            "Trump, Donald J"
+         ],
+         "geo_facet":"",
+         "multimedia":[
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/us\/23trump-JP-01-ALT\/23trump-JP-01-ALT-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Donald J. Trump, leading the Republican field in recent polls, drew a crowd on Friday for an event in Mobile, Ala.",
+               "copyright":"Jeff Haller for The New York Times"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/us\/23trump-JP-01-ALT\/23trump-JP-01-ALT-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Donald J. Trump, leading the Republican field in recent polls, drew a crowd on Friday for an event in Mobile, Ala.",
+               "copyright":"Jeff Haller for The New York Times"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/us\/23trump-JP-01-ALT\/23trump-JP-01-ALT-articleInline.jpg",
+               "format":"Normal",
+               "height":127,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Donald J. Trump, leading the Republican field in recent polls, drew a crowd on Friday for an event in Mobile, Ala.",
+               "copyright":"Jeff Haller for The New York Times"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/us\/23trump-JP-01-ALT\/23trump-JP-01-ALT-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Donald J. Trump, leading the Republican field in recent polls, drew a crowd on Friday for an event in Mobile, Ala.",
+               "copyright":"Jeff Haller for The New York Times"
+            }
+         ]
+      },
+      {
+         "section":"U.S.",
+         "subsection":"Politics",
+         "title":"Biden, Considering White House Bid, Meets With Warren",
+         "abstract":"The private session at the vice president\u2019s residence was the latest sign of how seriously Mr. Biden is thinking about a third White House run.",
+         "url":"http:\/\/www.nytimes.com\/politics\/first-draft\/2015\/08\/22\/biden-mulling-white-house-bid-meets-with-elizabeth-warren\/",
+         "byline":"By JONATHAN MARTIN and MAGGIE HABERMAN",
+         "item_type":"Blogpost",
+         "updated_date":"2015-08-22T21:01:30-5:00",
+         "created_date":"2015-08-22T16:26:34-5:00",
+         "published_date":"2015-08-22T16:23:33-5:00",
+         "material_type_facet":"News",
+         "kicker":"First Draft",
+         "des_facet":"",
+         "org_facet":"",
+         "per_facet":"",
+         "geo_facet":"",
+         "multimedia":[
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/22\/us\/22biden-firstdraft\/22biden-firstdraft-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Senator Elizabeth Warren, Democrat of Massachusetts, with Vice President Joseph R. Biden Jr. at the Capitol on Jan. 3, 2013, the day she assumed office.",
+               "copyright":"Chip Somodevilla\/Getty Images"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/22\/us\/22biden-firstdraft\/22biden-firstdraft-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Senator Elizabeth Warren, Democrat of Massachusetts, with Vice President Joseph R. Biden Jr. at the Capitol on Jan. 3, 2013, the day she assumed office.",
+               "copyright":"Chip Somodevilla\/Getty Images"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/22\/us\/22biden-firstdraft\/22biden-firstdraft-articleInline.jpg",
+               "format":"Normal",
+               "height":127,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Senator Elizabeth Warren, Democrat of Massachusetts, with Vice President Joseph R. Biden Jr. at the Capitol on Jan. 3, 2013, the day she assumed office.",
+               "copyright":"Chip Somodevilla\/Getty Images"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/22\/us\/22biden-firstdraft\/22biden-firstdraft-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Senator Elizabeth Warren, Democrat of Massachusetts, with Vice President Joseph R. Biden Jr. at the Capitol on Jan. 3, 2013, the day she assumed office.",
+               "copyright":"Chip Somodevilla\/Getty Images"
+            }
+         ]
+      },
+      {
+         "section":"NYT Now",
+         "subsection":"",
+         "title":"Your Weekend Briefing",
+         "abstract":"Here\u2019s what you need to know to start your week.",
+         "url":"http:\/\/www.nytimes.com\/2015\/08\/23\/nytnow\/your-weekend-briefing.html",
+         "byline":"By ANDREA KANNAPELL and SANDRA STEVENSON",
+         "item_type":"Article",
+         "updated_date":"2015-08-23T05:45:58-5:00",
+         "created_date":"2015-08-23T05:46:01-5:00",
+         "published_date":"2015-08-23T00:00:00-5:00",
+         "material_type_facet":"News",
+         "kicker":"",
+         "des_facet":"",
+         "org_facet":"",
+         "per_facet":"",
+         "geo_facet":"",
+         "multimedia":[
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/nytnow\/23weekendss-slide-KGHY\/23weekendss-slide-KGHY-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Brendan Smialowski\/Agence France-Presse \u2014 Getty Images"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/nytnow\/23weekendss-slide-KGHY\/23weekendss-slide-KGHY-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Brendan Smialowski\/Agence France-Presse \u2014 Getty Images"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/nytnow\/23weekendss-slide-KGHY\/23weekendss-slide-KGHY-articleInline.jpg",
+               "format":"Normal",
+               "height":127,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Brendan Smialowski\/Agence France-Presse \u2014 Getty Images"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/nytnow\/23weekendss-slide-KGHY\/23weekendss-slide-KGHY-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Brendan Smialowski\/Agence France-Presse \u2014 Getty Images"
+            }
+         ]
+      },
+      {
+         "section":"U.S.",
+         "subsection":"",
+         "title":"From Whitewater to Email: The Clintons\u2019 Dogged Lawyer",
+         "abstract":"David Kendall is \u201cone of America\u2019s greatest lawyers,\u201d a former adversary says, but he has drawn criticism from foes of the Clintons and concern from their friends.",
+         "url":"http:\/\/www.nytimes.com\/2015\/08\/24\/us\/from-whitewater-to-email-david-kendall-the-clintons-dogged-lawyer.html",
+         "byline":"By PETER BAKER",
+         "item_type":"Article",
+         "updated_date":"2015-08-23T06:00:34-5:00",
+         "created_date":"2015-08-23T06:00:36-5:00",
+         "published_date":"2015-08-24T00:00:00-5:00",
+         "material_type_facet":"News",
+         "kicker":"",
+         "des_facet":[
+            "Classified Information and State Secrets"
+         ],
+         "org_facet":[
+            "Williams & Connolly LLP"
+         ],
+         "per_facet":[
+            "Kendall, David E",
+            "Clinton, Bill",
+            "Clinton, Hillary Rodham"
+         ],
+         "geo_facet":"",
+         "multimedia":[
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/24\/us\/24kendall-web\/24kendall-web-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"David Kendall, center, during the House Judiciary Committee's impeachment hearing in November 1998.",
+               "copyright":"Khue Bui\/Associated Press"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/24\/us\/24kendall-web\/24kendall-web-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"David Kendall, center, during the House Judiciary Committee's impeachment hearing in November 1998.",
+               "copyright":"Khue Bui\/Associated Press"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/24\/us\/24kendall-web\/24kendall-web-articleInline.jpg",
+               "format":"Normal",
+               "height":129,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"David Kendall, center, during the House Judiciary Committee's impeachment hearing in November 1998.",
+               "copyright":"Khue Bui\/Associated Press"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/24\/us\/24kendall-web\/24kendall-web-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"David Kendall, center, during the House Judiciary Committee's impeachment hearing in November 1998.",
+               "copyright":"Khue Bui\/Associated Press"
+            }
+         ]
+      },
+      {
+         "section":"N.Y. \/ Region",
+         "subsection":"",
+         "title":"Immigrant Children\u2019s Cases Overwhelm New York Courts",
+         "abstract":"After fleeing violence in their Central American homelands, thousands of minors are crowding courtrooms in New York City and Long Island that are ill equipped to handle the volume.",
+         "url":"http:\/\/www.nytimes.com\/2015\/08\/24\/nyregion\/border-crisis-shifts-as-undocumented-childrens-cases-overwhelm-courts.html",
+         "byline":"By LIZ ROBBINS",
+         "item_type":"Article",
+         "updated_date":"2015-08-23T08:29:46-5:00",
+         "created_date":"2015-08-23T08:29:49-5:00",
+         "published_date":"2015-08-24T00:00:00-5:00",
+         "material_type_facet":"News",
+         "kicker":"",
+         "des_facet":[
+            "Illegal Immigration",
+            "Children and Childhood"
+         ],
+         "org_facet":[
+            "Border Patrol (US)",
+            "Citizenship and Immigration Services (US)"
+         ],
+         "per_facet":"",
+         "geo_facet":[
+            "Hempstead (NY)"
+         ],
+         "multimedia":[
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/nyregion\/23UNACCOMPANIED1\/23UNACCOMPANIED1-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Brayan, 16, at the Central American Refugee Center in Hempstead, N.Y., in June. Brayan crossed into the United States last year.",
+               "copyright":"Andrew Renneisen for The New York Times"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/nyregion\/23UNACCOMPANIED1\/23UNACCOMPANIED1-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Brayan, 16, at the Central American Refugee Center in Hempstead, N.Y., in June. Brayan crossed into the United States last year.",
+               "copyright":"Andrew Renneisen for The New York Times"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/nyregion\/23UNACCOMPANIED1\/23UNACCOMPANIED1-articleInline.jpg",
+               "format":"Normal",
+               "height":126,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Brayan, 16, at the Central American Refugee Center in Hempstead, N.Y., in June. Brayan crossed into the United States last year.",
+               "copyright":"Andrew Renneisen for The New York Times"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/nyregion\/23UNACCOMPANIED1\/23UNACCOMPANIED1-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Brayan, 16, at the Central American Refugee Center in Hempstead, N.Y., in June. Brayan crossed into the United States last year.",
+               "copyright":"Andrew Renneisen for The New York Times"
+            }
+         ]
+      },
+      {
+         "section":"U.S.",
+         "subsection":"",
+         "title":"Ohio Bill Would Ban Abortion in Down Syndrome Cases",
+         "abstract":"Legislators are expected to ban abortions on women who are terminating to avoid having a child with Down syndrome.",
+         "url":"http:\/\/www.nytimes.com\/2015\/08\/23\/us\/ohio-bill-would-ban-abortion-if-down-syndrome-is-reason.html",
+         "byline":"By TAMAR LEWIN",
+         "item_type":"Article",
+         "updated_date":"2015-08-22T17:49:08-5:00",
+         "created_date":"2015-08-22T17:49:11-5:00",
+         "published_date":"2015-08-23T00:00:00-5:00",
+         "material_type_facet":"News",
+         "kicker":"",
+         "des_facet":[
+            "Down Syndrome",
+            "Law and Legislation",
+            "Abortion",
+            "Presidential Election of 2016"
+         ],
+         "org_facet":"",
+         "per_facet":[
+            "Kasich, John R"
+         ],
+         "geo_facet":[
+            "Ohio"
+         ],
+         "multimedia":[
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/us\/23abort-JP-01\/23abort-JP-01-thumbStandard-v2.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Protesters outside Preterm, an abortion clinic in Cleveland.",
+               "copyright":"Michael F. McElroy for The New York Times"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/us\/23abort-JP-01\/23abort-JP-01-thumbLarge-v2.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Protesters outside Preterm, an abortion clinic in Cleveland.",
+               "copyright":"Michael F. McElroy for The New York Times"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/us\/23abort-JP-01\/23abort-JP-01-articleInline.jpg",
+               "format":"Normal",
+               "height":127,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Protesters outside Preterm, an abortion clinic in Cleveland.",
+               "copyright":"Michael F. McElroy for The New York Times"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/us\/23abort-JP-01\/23abort-JP-01-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Protesters outside Preterm, an abortion clinic in Cleveland.",
+               "copyright":"Michael F. McElroy for The New York Times"
+            }
+         ]
+      },
+      {
+         "section":"Books",
+         "subsection":"Sunday Book Review",
+         "title":"\u2018NeuroTribes,\u2019 by Steve Silberman",
+         "abstract":"A science journalist\u2019s reading of medical history suggests that the \u201cautism pandemic\u201d is an optical illusion.",
+         "url":"http:\/\/www.nytimes.com\/2015\/08\/23\/books\/review\/neurotribes-by-steve-silberman.html",
+         "byline":"By JENNIFER SENIOR",
+         "item_type":"Article",
+         "updated_date":"2015-08-17T05:00:01-5:00",
+         "created_date":"2015-08-17T05:00:06-5:00",
+         "published_date":"2015-08-23T00:00:00-5:00",
+         "material_type_facet":"Review",
+         "kicker":"",
+         "des_facet":[
+            "Books and Literature",
+            "Autism",
+            "NeuroTribes: The Legacy of Autism and the Future of Neurodiversity (Book)"
+         ],
+         "org_facet":"",
+         "per_facet":[
+            "Silberman, Steve (Journalist)"
+         ],
+         "geo_facet":"",
+         "multimedia":[
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/books\/review\/0823-BKS-Senior\/0823-BKS-Senior-thumbStandard-v2.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Jeffrey Fisher"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/books\/review\/0823-BKS-Senior\/0823-BKS-Senior-thumbLarge-v2.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Jeffrey Fisher"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/books\/review\/0823-BKS-Senior\/0823-BKS-Senior-articleInline.jpg",
+               "format":"Normal",
+               "height":132,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Jeffrey Fisher"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/books\/review\/0823-BKS-Senior\/0823-BKS-Senior-mediumThreeByTwo210-v2.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Jeffrey Fisher"
+            }
+         ]
+      },
+      {
+         "section":"Sports",
+         "subsection":"",
+         "title":"Bolt Holds Off Gatlin to Win World 100-Meter Title",
+         "abstract":"In a final that was billed as a morality play, Bolt finished one-hundreth of a second ahead of Gatlin, taking his third 100-meter world title.",
+         "url":"http:\/\/www.nytimes.com\/2015\/08\/24\/sports\/usain-bolt-holds-off-justin-gatlin-to-win-world-100-meter-title.html",
+         "byline":"By CHRISTOPHER CLAREY",
+         "item_type":"Article",
+         "updated_date":"2015-08-23T10:19:54-5:00",
+         "created_date":"2015-08-23T10:19:54-5:00",
+         "published_date":"2015-08-24T00:00:00-5:00",
+         "material_type_facet":"News",
+         "kicker":"",
+         "des_facet":[
+            "Track and Field",
+            "Running",
+            "Doping (Sports)"
+         ],
+         "org_facet":"",
+         "per_facet":[
+            "Bolt, Usain",
+            "Gatlin, Justin"
+         ],
+         "geo_facet":[
+            "Beijing (China)"
+         ],
+         "multimedia":""
+      },
+      {
+         "section":"World",
+         "subsection":"Asia Pacific",
+         "title":"With Force Deployments, North Korea Raises Stakes",
+         "abstract":"As negotiators from both sides resumed talks in a border village on Sunday afternoon, Pyongyang was deploying more artillery toward the border, the South said.",
+         "url":"http:\/\/www.nytimes.com\/2015\/08\/24\/world\/asia\/with-force-deployments-north-korea-raises-stakes-of-talks-with-south.html",
+         "byline":"By CHOE SANG-HUN",
+         "item_type":"Article",
+         "updated_date":"2015-08-23T06:39:14-5:00",
+         "created_date":"2015-08-23T06:39:13-5:00",
+         "published_date":"2015-08-24T00:00:00-5:00",
+         "material_type_facet":"News",
+         "kicker":"",
+         "des_facet":[
+            "Defense and Military Forces"
+         ],
+         "org_facet":"",
+         "per_facet":"",
+         "geo_facet":[
+            "North Korea",
+            "Panmunjom (South Korea)",
+            "Seoul (South Korea)"
+         ],
+         "multimedia":""
+      },
+      {
+         "section":"U.S.",
+         "subsection":"",
+         "title":"Giant Panda Gives Birth to Two Cubs at National Zoo",
+         "abstract":"Mei Xiang, a giant panda at Washington\u2019s National Zoo, gave birth to twin cubs three days after her pregnancy was discovered.",
+         "url":"http:\/\/www.nytimes.com\/2015\/08\/23\/us\/giant-panda-gives-birth-at-national-zoo-in-washington.html",
+         "byline":"By LIAM STACK",
+         "item_type":"Article",
+         "updated_date":"2015-08-23T00:18:31-5:00",
+         "created_date":"2015-08-22T19:53:59-5:00",
+         "published_date":"2015-08-23T00:00:00-5:00",
+         "material_type_facet":"News",
+         "kicker":"",
+         "des_facet":[
+            "Pandas"
+         ],
+         "org_facet":[
+            "Smithsonian National Zoological Park"
+         ],
+         "per_facet":"",
+         "geo_facet":"",
+         "multimedia":[
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/us\/23PANDAWEB\/23PANDAWEB-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The giant panda Mei Xiang while giving birth at the National Zoo in Washington on Saturday.",
+               "copyright":"Smithsonian's National Zoo, via Reuters"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/us\/23PANDAWEB\/23PANDAWEB-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The giant panda Mei Xiang while giving birth at the National Zoo in Washington on Saturday.",
+               "copyright":"Smithsonian's National Zoo, via Reuters"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/us\/23PANDAWEB\/23PANDAWEB-articleInline.jpg",
+               "format":"Normal",
+               "height":142,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The giant panda Mei Xiang while giving birth at the National Zoo in Washington on Saturday.",
+               "copyright":"Smithsonian's National Zoo, via Reuters"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/us\/23PANDAWEB\/23PANDAWEB-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The giant panda Mei Xiang while giving birth at the National Zoo in Washington on Saturday.",
+               "copyright":"Smithsonian's National Zoo, via Reuters"
+            }
+         ]
+      },
+      {
+         "section":"World",
+         "subsection":"Europe",
+         "title":"Migrants Rush Across Border in Macedonia",
+         "abstract":"Thousands of refugees managed to get past a cordon set up to prevent them from crossing into the country from Greece.",
+         "url":"http:\/\/www.nytimes.com\/2015\/08\/23\/world\/europe\/migrants-rush-across-border-in-macedonia.html",
+         "byline":"By ALEKSANDAR DIMISHKOVSKI",
+         "item_type":"Article",
+         "updated_date":"2015-08-22T16:21:30-5:00",
+         "created_date":"2015-08-22T15:00:11-5:00",
+         "published_date":"2015-08-23T00:00:00-5:00",
+         "material_type_facet":"News",
+         "kicker":"",
+         "des_facet":[
+            "Refugees and Displaced Persons",
+            "Immigration and Emigration"
+         ],
+         "org_facet":"",
+         "per_facet":"",
+         "geo_facet":[
+            "Macedonia",
+            "Greece"
+         ],
+         "multimedia":""
+      },
+      {
+         "section":"Style",
+         "subsection":"",
+         "title":"Modern Love: One Life, Shaken and Stirred",
+         "abstract":"He said he didn\u2019t like martinis, but she said to trust her. They went down like candy. They danced to the Bee Gees on the jukebox, and he kissed her.",
+         "url":"http:\/\/www.nytimes.com\/2015\/08\/23\/style\/overcoming-love-addiction-one-apple-martini-at-a-time.html",
+         "byline":"By PETER DEMARCO",
+         "item_type":"Article",
+         "updated_date":"2015-08-20T13:08:52-5:00",
+         "created_date":"2015-08-20T13:08:54-5:00",
+         "published_date":"2015-08-23T00:00:00-5:00",
+         "material_type_facet":"News",
+         "kicker":"",
+         "des_facet":[
+            "Love (Emotion)",
+            "Cocktails"
+         ],
+         "org_facet":[
+            "Bee Gees (Music Group)"
+         ],
+         "per_facet":"",
+         "geo_facet":"",
+         "multimedia":[
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/fashion\/23MODERNLOVE\/23MODERNLOVE-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Brian Rea"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/fashion\/23MODERNLOVE\/23MODERNLOVE-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Brian Rea"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/fashion\/23MODERNLOVE\/23MODERNLOVE-articleInline.jpg",
+               "format":"Normal",
+               "height":251,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Brian Rea"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/fashion\/23MODERNLOVE\/23MODERNLOVE-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Brian Rea"
+            }
+         ]
+      },
+      {
+         "section":"Arts",
+         "subsection":"Art & Design",
+         "title":"The New Hired Guns in a Wild West Art World",
+         "abstract":"Consultants to wealthy clients now play a deal-making role for commissions that are sometimes worth millions of dollars.",
+         "url":"http:\/\/www.nytimes.com\/2015\/08\/23\/arts\/design\/soaring-art-market-attracts-a-new-breed-of-advisers-for-collectors.html",
+         "byline":"By ROBIN POGREBIN and GRAHAM BOWLEY",
+         "item_type":"Article",
+         "updated_date":"2015-08-22T20:26:31-5:00",
+         "created_date":"2015-08-22T20:26:32-5:00",
+         "published_date":"2015-08-23T00:00:00-5:00",
+         "material_type_facet":"News",
+         "kicker":"",
+         "des_facet":[
+            "Art",
+            "Collectors and Collections",
+            "Auctions"
+         ],
+         "org_facet":[
+            "Christie's",
+            "Sotheby's"
+         ],
+         "per_facet":"",
+         "geo_facet":[
+            "Chelsea (Manhattan, NY)"
+         ],
+         "multimedia":[
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/arts\/23ADVISORS\/23ADVISORS-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Bernard Berenson, exemplar of the old-school art adviser.",
+               "copyright":"David Lees\/The LIFE Images Collection, via Getty Images"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/arts\/23ADVISORS\/23ADVISORS-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Bernard Berenson, exemplar of the old-school art adviser.",
+               "copyright":"David Lees\/The LIFE Images Collection, via Getty Images"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/arts\/23ADVISORS\/23ADVISORS-articleInline.jpg",
+               "format":"Normal",
+               "height":190,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Bernard Berenson, exemplar of the old-school art adviser.",
+               "copyright":"David Lees\/The LIFE Images Collection, via Getty Images"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/arts\/23ADVISORS\/23ADVISORS-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Bernard Berenson, exemplar of the old-school art adviser.",
+               "copyright":"David Lees\/The LIFE Images Collection, via Getty Images"
+            }
+         ]
+      },
+      {
+         "section":"Magazine",
+         "subsection":"",
+         "title":"The Creative Apocalypse That Wasn\u2019t",
+         "abstract":"In the digital economy, it was supposed to be impossible to make money by making art. Instead, creative careers are thriving \u2014 but in complicated and unexpected ways.",
+         "url":"http:\/\/www.nytimes.com\/2015\/08\/23\/magazine\/the-creative-apocalypse-that-wasnt.html",
+         "byline":"By STEVEN JOHNSON",
+         "item_type":"Article",
+         "updated_date":"2015-08-19T06:59:17-5:00",
+         "created_date":"2015-08-19T06:59:21-5:00",
+         "published_date":"2015-08-23T00:00:00-5:00",
+         "material_type_facet":"News",
+         "kicker":"",
+         "des_facet":[
+            "Art",
+            "Audio Recordings, Downloads and Streaming",
+            "Computers and the Internet",
+            "Labor and Jobs",
+            "Television",
+            "Music"
+         ],
+         "org_facet":"",
+         "per_facet":[
+            "Ulrich, Lars"
+         ],
+         "geo_facet":"",
+         "multimedia":[
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/magazine\/23culture-opener\/23culture-opener-thumbStandard.jpg",
+               "format":"Standard Thumbnail",
+               "height":75,
+               "width":75,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Illustration by Andrew Rae"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/magazine\/23culture-opener\/23culture-opener-thumbLarge.jpg",
+               "format":"thumbLarge",
+               "height":150,
+               "width":150,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Illustration by Andrew Rae"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/magazine\/23culture-opener\/23culture-opener-articleInline-v2.jpg",
+               "format":"Normal",
+               "height":113,
+               "width":190,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Illustration by Andrew Rae"
+            },
+            {
+               "url":"http:\/\/static01.nyt.com\/images\/2015\/08\/23\/magazine\/23culture-opener\/23culture-opener-mediumThreeByTwo210.jpg",
+               "format":"mediumThreeByTwo210",
+               "height":140,
+               "width":210,
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Illustration by Andrew Rae"
+            }
+         ]
+      }
+   ]
+}

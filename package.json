@@ -1,0 +1,25 @@
+{
+  "name": "angular2-showcase",
+  "version": "0.0.1",
+  "description": "angular2 with material-design-lite showcase",
+  "main": "src/app.js",
+  "scripts": {
+    "postinstall": [
+      "scripts/build_vendor_library.js",
+      "scripts/copy_vendor_library.js"
+    ]
+  },
+  "keywords": [
+    "angular2",
+    "material-dsign-lite"
+  ],
+  "author": "hugh",
+  "license": "MIT",
+  "dependencies": {
+    "angular2": "^2.0.0-alpha.35",
+    "material-design-lite": "^1.0.4",
+    "rx-lite": "^3.1.1",
+    "systemjs": "^0.18.11",
+    "traceur": "0.0.91"
+  }
+}
