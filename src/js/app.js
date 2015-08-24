@@ -14,7 +14,8 @@ var http_1 = require('./http');
 // Annotation section
 var MyAppComponent = (function () {
     function MyAppComponent() {
-        var _this = this;
+        var _self = this;
+        this.imgUrl = './images/dog.png';
         window.fetch('./mock/nytimes_stories.json', {
             method: 'GET',
             headers: {
@@ -25,8 +26,17 @@ var MyAppComponent = (function () {
             .then(http_1.status)
             .then(http_1.json)
             .then(function (response) {
-            _this.stories = response.results;
-            console.log(_this.stories);
+            _self.stories = [];
+            response.results.forEach(function (item) {
+                if (item.multimedia.length > 0) {
+                    item.imageUrl = item.multimedia[3].url;
+                }
+                else {
+                    item.imageUrl = './images/dog.png';
+                }
+                _self.stories.push(item);
+            });
+            console.log(_self.stories);
         })
             .catch(function (error) {
             console.log(error.message);
@@ -37,7 +47,7 @@ var MyAppComponent = (function () {
             selector: 'my-app'
         }),
         angular2_1.View({
-            directives: [angular2_1.NgFor],
+            directives: [angular2_1.NgFor, angular2_1.NgStyle],
             templateUrl: './app/stories/stories.html'
         }), 
         __metadata('design:paramtypes', [])
