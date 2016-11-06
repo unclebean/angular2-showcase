@@ -3,11 +3,13 @@
   <head>
     <title>Angular 2 Quickstart</title>
     <link rel="stylesheet" href="css/material.min.css">
-    <script src="./vendor/material.min.js"></script>
-
-    <script src="./vendor/traceur-runtime.js"></script>
-    <script src="./vendor/system@0.16.11.js"></script>
-    <script src="./vendor/angular2.dev.js"></script>
+    <script src="../node_modules/material-design-lite/material.min.js"></script>
+    <script src="../node_modules/core-js/client/shim.min.js"></script>
+    <script src="../node_modules/zone.js/dist/zone.js"></script>
+    <script src="../node_modules/reflect-metadata/Reflect.js"></script>
+    <script src="../node_modules/systemjs/dist/system.src.js"></script>
+    <!-- 2. Configure SystemJS -->
+    <script src="./js/systemjs.config.js"></script>
 
     <link href="https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en" rel="stylesheet">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -168,7 +170,7 @@
         }
       });
     */
-      System.import('js/app');
+      System.import('app').catch(function(err){ console.error(err); });
     </script>
   </body>
 </html>
